@@ -1,0 +1,932 @@
+﻿Log file open, 01/26/18 11:44:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Survival
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-817720611) SRandInit(-817720611).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.175142
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.26-10.44.04:437][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-10.44.04:437][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.26-10.44.04:445][  0]LogInit: Computer: MSPDKCPHWS077
+[2018.01.26-10.44.04:445][  0]LogInit: User: pas
+[2018.01.26-10.44.04:445][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.26-10.44.04:445][  0]LogInit: High frequency timer resolution =3.507522 MHz
+[2018.01.26-10.44.04:445][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.26-10.44.04:445][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.26-10.44.04:445][  0]LogMemory: Process Physical Memory: 274.91 MB used, 274.91 MB peak
+[2018.01.26-10.44.04:445][  0]LogMemory: Process Virtual Memory: 271.88 MB used, 271.88 MB peak
+[2018.01.26-10.44.04:445][  0]LogMemory: Physical Memory: 8724.51 MB used,  7601.59 MB free, 16326.09 MB total
+[2018.01.26-10.44.04:445][  0]LogMemory: Virtual Memory: 680.23 MB used,  7601.59 MB free, 134217728.00 MB total
+[2018.01.26-10.44.04:593][  0]LogInit: Using OS detected language (en-US).
+[2018.01.26-10.44.04:593][  0]LogInit: Using OS detected locale (da-DK).
+[2018.01.26-10.44.04:595][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.26-10.44.04:596][  0]LogTextLocalizationManager: No localization for 'da-DK' exists, so 'en-US' will be used for the locale.
+[2018.01.26-10.44.04:969][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.26-10.44.05:237][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.26-10.44.05:287][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2018.01.26-10.44.05:287][  0]LogD3D11RHI:       4063/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.26-10.44.05:289][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.26-10.44.05:289][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.26-10.44.05:289][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.26-10.44.05:297][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.26-10.44.05:297][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.26-10.44.05:297][  0]LogWindows: EnumDisplayDevices:
+[2018.01.26-10.44.05:297][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:0 D:1)
+[2018.01.26-10.44.05:298][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2018.01.26-10.44.05:298][  0]LogWindows:    2. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2018.01.26-10.44.05:298][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.26-10.44.05:298][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2018.01.26-10.44.05:298][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.26-10.44.05:298][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.26-10.44.05:298][  0]LogRHI: Texture pool is 2844 MB (70% of 4063 MB)
+[2018.01.26-10.44.05:325][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.26-10.44.05:337][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.26-10.44.05:340][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/pas/Documents/Unreal Projects/Survival/Intermediate/Shaders/WorkingDirectory/44676/).
+[2018.01.26-10.44.05:340][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pas/AppData/Local/Temp/UnrealShaderWorkingDir/D5F3CBD64C896637A94A1BB58AAED067/'.
+[2018.01.26-10.44.05:340][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.26-10.44.06:223][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.26-10.44.06:285][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.26-10.44.06:344][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.26-10.44.06:399][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.26-10.44.06:459][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.26-10.44.06:511][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.26-10.44.06:568][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.26-10.44.06:621][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.26-10.44.06:669][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.26-10.44.06:722][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.26-10.44.06:774][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.26-10.44.06:825][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.26-10.44.06:875][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.26-10.44.06:930][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.26-10.44.07:034][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.26-10.44.07:034][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.26-10.44.07:090][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.26-10.44.07:134][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.26-10.44.07:232][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.26-10.44.07:284][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.26-10.44.07:335][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.26-10.44.07:385][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.26-10.44.07:468][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.26-10.44.07:523][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.26-10.44.07:523][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.26-10.44.08:040][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.26-10.44.08:100][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/pas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-10.44.08:100][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.26-10.44.08:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pas/Documents/Unreal Projects/Survival/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.26-10.44.08:100][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.26-10.44.08:100][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pas/Documents/Unreal Projects/Survival/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.26-10.44.08:100][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.26-10.44.08:115][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.26-10.44.08:127][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.26-10.44.08:138][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.26-10.44.08:138][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.26-10.44.08:139][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-10.44.08:139][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.26-10.44.08:519][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.26-10.44.08:881][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.26-10.44.08:929][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.26-10.44.08:929][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.26-10.44.08:929][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.26-10.44.08:929][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.26-10.44.08:929][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.26-10.44.08:957][  0]LogNetVersion: Survival , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2952244695)
+[2018.01.26-10.44.09:119][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.01.26-10.44.09:650][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.076272 seconds
+[2018.01.26-10.44.09:657][  0]LogUObjectArray: 35901 objects as part of root set at end of initial load.
+[2018.01.26-10.44.09:657][  0]LogUObjectAllocator: 7372240 out of 0 bytes used by permanent object pool.
+[2018.01.26-10.44.09:657][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.26-10.44.09:720][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.26-10.44.12:675][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.26-10.44.12:724][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.26-10.44.13:435][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.26-10.44.13:864][  0]SourceControl: Source control is disabled
+[2018.01.26-10.44.13:865][  0]SourceControl: Source control is disabled
+[2018.01.26-10.44.13:922][  0]SourceControl: Source control is disabled
+[2018.01.26-10.44.13:982][  0]SourceControl: Source control is disabled
+[2018.01.26-10.44.14:867][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.26-10.44.15:162][  0]LogOcInput: OculusInput pre-init called
+[2018.01.26-10.44.15:491][  0]LogEngine: Initializing Engine...
+[2018.01.26-10.44.15:493][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.26-10.44.15:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.26-10.44.15:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.26-10.44.15:848][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.26-10.44.15:856][  0]LogInit: XAudio2 using 'Headset Earphone (PXC 550)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.26-10.44.15:865][  0]LogInit: FAudioDevice initialized.
+[2018.01.26-10.44.15:945][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/pas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.26-10.44.15:960][  0]LogInit: Texture streaming: Enabled
+[2018.01.26-10.44.16:082][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.26-10.44.16:253][  0]LogInit: Transaction tracking system initialized
+[2018.01.26-10.44.16:620][  0]BlueprintLog: New page: Editor Load
+[2018.01.26-10.44.17:607][  0]LocalizationService: Localization service is disabled
+[2018.01.26-10.44.18:469][  0]LogConsoleResponse: Display: 
+[2018.01.26-10.44.18:645][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pas/Documents/Unreal Projects/Survival/Content/' took 0.01s
+[2018.01.26-10.44.18:646][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.26-10.44.18:646][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.26-10.44.18:646][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.26-10.44.19:926][  0]SourceControl: Source control is disabled
+[2018.01.26-10.44.19:926][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.26-10.44.19:926][  0]LightingResults: New page: Lighting Build
+[2018.01.26-10.44.19:972][  0]MapCheck: New page: Map Check
+[2018.01.26-10.44.19:972][  0]LightingResults: New page: Lighting Build
+[2018.01.26-10.44.20:188][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.26-10.44.20:194][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-10.44.20:206][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-10.44.20:262][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.812ms to complete.
+[2018.01.26-10.44.20:262][  0]LogFileHelpers: Loading map 'Template_Default' took 0.336
+[2018.01.26-10.44.20:405][  0]LogCollectionManager: Loaded 0 collections in 0.001245 seconds
+[2018.01.26-10.44.20:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pas/Documents/Unreal Projects/Survival/Saved/Collections/' took 0.01s
+[2018.01.26-10.44.20:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pas/Documents/Unreal Projects/Survival/Content/Developers/pas/Collections/' took 0.01s
+[2018.01.26-10.44.20:493][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pas/Documents/Unreal Projects/Survival/Content/Collections/' took 0.01s
+[2018.01.26-10.44.20:493][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.26-10.44.20:501][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2363 classes and 519 folders.
+[2018.01.26-10.44.20:571][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.26-10.44.20:692][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.26-10.44.20:748][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.26-10.44.20:812][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-10.44.20:814][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.26-10.44.20:820][  0]LogSlate: Took 0.001859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.26-10.44.20:908][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-10.44.21:058][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.26-10.44.21:058][  0]LogLoad: (Engine Initialization) Total time: 18.80 seconds
+[2018.01.26-10.44.21:058][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.26-10.44.21:058][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.26-10.44.21:058][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.26-10.44.21:068][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.26-10.44.21:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.26-10.44.21:123][  1]LogAssetRegistry: Asset discovery search completed in 12.0264 seconds
+[2018.01.26-10.44.21:125][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.26-10.44.21:125][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2018.01.26-10.46.57:801][158]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-10.46.58:117][158]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.01.26-10.46.58:719][158]LogSlate: Took 0.001370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.26-10.47.28:465][518]LogSlate: Took 0.001608 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.26-10.47.34:632][195]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.26-10.47.34:632][195]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" is in short form, which is unsupported and -- even if valid -- resolving it will be really slow.
+[2018.01.26-10.47.34:632][195]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.26-10.47.34:715][195]LogPackageName: Warning: Please consider resaving package in order to speed-up loading.
+[2018.01.26-10.47.34:715][195]LogPackageName: SearchForPackageOnDisk took   0.081s, but failed to resolve S_ClothTarps_03.
+[2018.01.26-10.47.34:715][195]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.01.26-10.47.34:715][195]LogPackageName: SearchForPackageOnDisk took   0.082s, but failed to resolve S_ClothTarps_03.
+[2018.01.26-10.47.34:715][195]LogPackageName: Warning: String asset reference "S_ClothTarps_03.SM.Mesh.S_ClothTarps_03" could not be resolved.
+[2018.01.26-10.48.02:443][460]BlueprintLog: New page: Compile Untitled
+[2018.01.26-10.48.03:264][548]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-10.48.28:543][686]LogEditor: Attempting to add actor of class 'SplineMeshActor' to level at -460.00,-530.00,340.00
+[2018.01.26-10.48.30:058][795]LogEditor: Attempting to add actor of class 'SplineMeshActor' to level at -40.00,-170.00,20.00
+[2018.01.26-10.49.23:988][616]LogMetaData: Removing '/Game/mySpline.mySpline:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.01.26-10.49.23:988][616]LogMetaData: Removing '/Game/mySpline.SKEL_mySpline_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.01.26-10.49.23:988][616]LogMetaData: Removing '/Game/mySpline.mySpline_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.01.26-10.49.23:988][616]LogMetaData: Removing '/Game/mySpline.mySpline:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.01.26-10.49.23:988][616]LogMetaData: Removing '/Game/mySpline.mySpline:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.01.26-10.49.23:988][616]LogMetaData: Removing '/Game/mySpline.mySpline:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2018.01.26-10.49.24:004][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mySpline" FILE="../../../../../../Users/pas/Documents/Unreal Projects/Survival/Content/mySpline.uasset" SILENT=true
+[2018.01.26-10.49.24:015][616]LogSavePackage: Save=9.65ms
+[2018.01.26-10.49.24:015][616]LogSavePackage: Moving '../../../../../../Users/pas/Documents/Unreal Projects/Survival/Saved/mySpline951C037E4A53569C6C1271AB1EE63836.tmp' to '../../../../../../Users/pas/Documents/Unreal Projects/Survival/Content/mySpline.uasset'
+[2018.01.26-10.49.24:019][616]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pas/Documents/Unreal Projects/Survival/Content/mySpline.uasset
+[2018.01.26-10.50.28:563][ 74]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.01.26-10.51.29:207][733]Cmd: DELETE
+[2018.01.26-10.51.29:207][733]Cmd: ACTOR DELETE
+[2018.01.26-10.51.30:369][733]LogEditorActor: Deleted Actor: mySpline_C
+[2018.01.26-10.51.30:388][733]LogEditorActor: Deleted 1 Actors (1.174 secs)
+[2018.01.26-10.51.40:197][223]LogEditorActor: Deleted Actor: SplineMeshActor
+[2018.01.26-10.51.40:216][223]LogEditorActor: Deleted 1 Actors (1.334 secs)
+[2018.01.26-10.54.12:808][429]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.26-10.54.21:840][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="../../../../../../Users/pas/Documents/Unreal Projects/Survival/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.01.26-10.54.21:963][456]LogSavePackage: Save=122.16ms
+[2018.01.26-10.54.21:963][456]LogSavePackage: Moving '../../../../../../Users/pas/Documents/Unreal Projects/Survival/Saved/Untitled_1_Auto1E0B525C345A22D872B211780DB49EAF8.tmp' to '../../../../../../Users/pas/Documents/Unreal Projects/Survival/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.01.26-10.54.21:965][456]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/pas/Documents/Unreal Projects/Survival/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.01.26-10.54.21:968][456]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.153
+[2018.01.26-10.54.21:968][456]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.153
+[2018.01.26-11.05.17:661][247]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.26-11.05.17:797][247]LogTexture: Display: Building textures: T_Plains_Terrain_Floors01_N (BC5, 1024X1024)
+[2018.01.26-11.05.17:797][247]LogTexture: Display: Building textures: T_Cherry_Tree_Flowers_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.17:797][247]LogTexture: Display: Building textures: T_Cherry_Tree_Flowers_N (BC5, 1024X1024)
+[2018.01.26-11.05.17:797][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door01...
+[2018.01.26-11.05.17:816][247]LogTexture: Display: Building textures: T_Env_Breakables_Breakables_R (AutoDXT, 1024X1024)
+[2018.01.26-11.05.17:816][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door01.SM_Exo_Decos_Door01
+[2018.01.26-11.05.17:818][247]LogStaticMesh: Building static mesh SM_Exo_Cover_Curve_1...
+[2018.01.26-11.05.17:825][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Cover_Curve_1.SM_Exo_Cover_Curve_1
+[2018.01.26-11.05.17:826][247]LogStaticMesh: Building static mesh SM_Exo_Deco_2...
+[2018.01.26-11.05.17:835][247]LogTexture: Display: Building textures: T_Env_Breakables_BreakablesSnow_M (AutoDXT, 1024X1024)
+[2018.01.26-11.05.17:835][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Deco_2.SM_Exo_Deco_2
+[2018.01.26-11.05.17:836][247]LogStaticMesh: Building static mesh SM_Exo_Cover_1...
+[2018.01.26-11.05.17:838][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Cover_1.SM_Exo_Cover_1
+[2018.01.26-11.05.17:839][247]LogStaticMesh: Building static mesh SM_Exo_CobWeb05...
+[2018.01.26-11.05.17:839][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb05.SM_Exo_CobWeb05
+[2018.01.26-11.05.17:839][247]LogStaticMesh: Building static mesh SM_Exo_CobWeb04...
+[2018.01.26-11.05.17:840][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb04.SM_Exo_CobWeb04
+[2018.01.26-11.05.17:917][247]LogTexture: Display: Building textures: T_Plains_Terrain_Floors01_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Decos_Door_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Cobweb03_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Plains_Cliff01 (AutoDXT, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Plains_Cliff001 (BC5, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Plains_Ruins_Cage_N (BC5, 2048X2048)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Plains_Ruins_Cage_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Plains_FloorsBeams_N (BC5, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Exo_Crate_Open_D (AutoDXT, 256X256)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Exo_Cart_N (AutoDXT, 512X512)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Exo_Crate_Open_N (AutoDXT, 256X256)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Exo_Cart_D (AutoDXT, 512X512)
+[2018.01.26-11.05.20:274][247]LogTexture: Display: Building textures: T_Plains_Ground01_N (BC5, 1024X1024)
+[2018.01.26-11.05.20:274][247]LogMaterial: Missing cached shader map for material M_Plains_Floors_Block, compiling. 
+[2018.01.26-11.05.20:356][247]LogTexture: Display: Building textures: T_Plains_Ground01_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.20:357][247]LogStaticMesh: Building static mesh SM_Exo_Stone01_Group...
+[2018.01.26-11.05.20:367][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Group.SM_Exo_Stone01_Group
+[2018.01.26-11.05.20:367][247]LogStaticMesh: Building static mesh SM_Exo_WoodPlanks01...
+[2018.01.26-11.05.20:370][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_WoodPlanks01.SM_Exo_WoodPlanks01
+[2018.01.26-11.05.20:374][247]LogMaterial: Missing cached shader map for material M_Cherry_Tree, compiling. 
+[2018.01.26-11.05.20:473][247]LogStaticMesh: Building static mesh SM_Cherry_Tree...
+[2018.01.26-11.05.20:485][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_Cherry_Tree.SM_Cherry_Tree
+[2018.01.26-11.05.20:488][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor...
+[2018.01.26-11.05.20:490][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor.SM_Exo_Bridge_Tile_Floor
+[2018.01.26-11.05.20:490][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor_Broken...
+[2018.01.26-11.05.20:492][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_Broken.SM_Exo_Bridge_Tile_Floor_Broken
+[2018.01.26-11.05.20:492][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor_A...
+[2018.01.26-11.05.20:493][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_A.SM_Exo_Bridge_Tile_Floor_A
+[2018.01.26-11.05.20:493][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_BROKEN_C...
+[2018.01.26-11.05.20:495][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_C.SM_Exo_Bridge_Tile_BROKEN_C
+[2018.01.26-11.05.20:495][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_BROKEN_B...
+[2018.01.26-11.05.20:496][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_B.SM_Exo_Bridge_Tile_BROKEN_B
+[2018.01.26-11.05.20:497][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_BROKEN_D...
+[2018.01.26-11.05.20:506][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_BROKEN_D.SM_Exo_Bridge_Tile_BROKEN_D
+[2018.01.26-11.05.20:689][247]LogTexture: Display: Building textures: T_Plains_Rock01_N (BC5, 2048X2048)
+[2018.01.26-11.05.20:689][247]LogTexture: Display: Building textures: T_Decos_Door_N (BC5, 1024X1024)
+[2018.01.26-11.05.20:956][247]LogTexture: Display: Building textures: T_Plains_Rock02_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.21:187][247]LogTexture: Display: Building textures: T_Decos_Door_Frame_D_NRM (BC5, 2048X2048)
+[2018.01.26-11.05.21:187][247]LogTexture: Display: Building textures: T_Plains_Rock01_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.21:187][247]LogTexture: Display: Building textures: T_Decos_Door_M (AutoDXT, 1024X1024)
+[2018.01.26-11.05.21:367][247]LogMaterial: Missing cached shader map for material M_Decos_Door, compiling. 
+[2018.01.26-11.05.21:407][247]LogStaticMesh: Building static mesh SM_Exo_CobWeb02...
+[2018.01.26-11.05.21:414][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb02.SM_Exo_CobWeb02
+[2018.01.26-11.05.21:418][247]LogMaterial: Missing cached shader map for material M_Exo_CobWeb01_NoMove, compiling. 
+[2018.01.26-11.05.21:499][247]LogStaticMesh: Building static mesh SM_Plains_ShortWall_Straight_01...
+[2018.01.26-11.05.21:517][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortWall_Straight_01.SM_Plains_ShortWall_Straight_01
+[2018.01.26-11.05.21:517][247]LogStaticMesh: Building static mesh SM_Plains_ShortColumn_Half_01...
+[2018.01.26-11.05.21:520][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_Half_01.SM_Plains_ShortColumn_Half_01
+[2018.01.26-11.05.21:521][247]LogStaticMesh: Building static mesh SM_Plains_ShortColumn_01...
+[2018.01.26-11.05.21:533][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ShortColumn_01.SM_Plains_ShortColumn_01
+[2018.01.26-11.05.21:534][247]LogStaticMesh: Building static mesh SM_Plains_Ruins_Cage_Broken_02...
+[2018.01.26-11.05.21:547][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Cage_Broken_02.SM_Plains_Ruins_Cage_Broken_02
+[2018.01.26-11.05.21:548][247]LogStaticMesh: Building static mesh SM_Plains_Ruins_Cage_Broken_01...
+[2018.01.26-11.05.21:578][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruins_Cage_Broken_01.SM_Plains_Ruins_Cage_Broken_01
+[2018.01.26-11.05.21:580][247]LogStaticMesh: Building static mesh SM_Plains_Ruin_BuildingLOD02...
+[2018.01.26-11.05.21:584][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD02.SM_Plains_Ruin_BuildingLOD02
+[2018.01.26-11.05.21:584][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame01...
+[2018.01.26-11.05.21:590][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame01.SM_Exo_Decos_Door_Frame01
+[2018.01.26-11.05.21:794][247]LogTexture: Display: Building textures: T_Decos_Door_Frame_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_FloorsTrim_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_FloorsTrim_N (BC5, 1024X1024)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_Angel_Statue_N (BC5, 2048X2048)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_Angel_Statue_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_Tree01_N (BC5, 2048X2048)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_Tree01_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.31:611][247]LogTexture: Display: Building textures: T_Plains_Fern01_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.31:618][247]LogMaterial: Missing cached shader map for material M_Decos_Door_Frame, compiling. 
+[2018.01.26-11.05.31:665][247]LogStaticMesh: Building static mesh SM_Plains_Colunnade_Mid_01...
+[2018.01.26-11.05.31:722][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Colunnade_Mid_01.SM_Plains_Colunnade_Mid_01
+[2018.01.26-11.05.31:722][247]LogStaticMesh: Building static mesh SM_Plains_Column_Small_Broken_02...
+[2018.01.26-11.05.31:745][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_Broken_02.SM_Plains_Column_Small_Broken_02
+[2018.01.26-11.05.31:745][247]LogStaticMesh: Building static mesh SM_Plains_Column_Small_Broken_01...
+[2018.01.26-11.05.31:753][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_Broken_01.SM_Plains_Column_Small_Broken_01
+[2018.01.26-11.05.31:754][247]LogStaticMesh: Building static mesh SM_Plains_Column_Small_01...
+[2018.01.26-11.05.31:776][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Small_01.SM_Plains_Column_Small_01
+[2018.01.26-11.05.31:777][247]LogStaticMesh: Building static mesh SM_Plains_Column_Mid_01...
+[2018.01.26-11.05.31:784][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Mid_01.SM_Plains_Column_Mid_01
+[2018.01.26-11.05.31:784][247]LogStaticMesh: Building static mesh SM_Plains_Column_Large_Broken_03...
+[2018.01.26-11.05.31:806][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_03.SM_Plains_Column_Large_Broken_03
+[2018.01.26-11.05.31:806][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock_Pile01...
+[2018.01.26-11.05.31:817][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_Pile01.SM_Plains_LargeRock_Pile01
+[2018.01.26-11.05.31:825][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock_CliffEdgeSm...
+[2018.01.26-11.05.31:830][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_CliffEdgeSm.SM_Plains_LargeRock_CliffEdgeSm
+[2018.01.26-11.05.31:833][247]LogMaterial: Missing cached shader map for material M_Plains_Cliff1, compiling. 
+[2018.01.26-11.05.31:877][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock_CliffEdge...
+[2018.01.26-11.05.31:883][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_CliffEdge.SM_Plains_LargeRock_CliffEdge
+[2018.01.26-11.05.31:887][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Fountain_02...
+[2018.01.26-11.05.31:895][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_02.SM_Plains_Castle_Fountain_02
+[2018.01.26-11.05.31:896][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Fountain_01...
+[2018.01.26-11.05.31:926][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_01.SM_Plains_Castle_Fountain_01
+[2018.01.26-11.05.31:927][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Circle_Railing_01...
+[2018.01.26-11.05.31:961][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Circle_Railing_01.SM_Plains_Castle_Circle_Railing_01
+[2018.01.26-11.05.31:975][247]LogMaterial: Missing cached shader map for material M_Plains_Cage, compiling. 
+[2018.01.26-11.05.32:019][247]LogStaticMesh: Building static mesh Sm_Exo_CobWeb01...
+[2018.01.26-11.05.32:020][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/Sm_Exo_CobWeb01.Sm_Exo_CobWeb01
+[2018.01.26-11.05.32:020][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Floor_D...
+[2018.01.26-11.05.32:021][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Floor_D.SM_Exo_Bridge_Tile_Floor_D
+[2018.01.26-11.05.32:021][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block01...
+[2018.01.26-11.05.32:043][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block01.SM_Plains_Floors_Block01
+[2018.01.26-11.05.32:054][247]LogMaterial: Missing cached shader map for material M_Exo_Crate_Open, compiling. 
+[2018.01.26-11.05.32:096][247]LogStaticMesh: Building static mesh SM_Exo_Crate_Open_Damaged...
+[2018.01.26-11.05.32:281][247]LogTexture: Display: Building textures: T_Plains_Fern01_N (AutoDXT, 2048X2048)
+[2018.01.26-11.05.32:281][247]LogStaticMesh: Built static mesh [0.19s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Damaged.SM_Exo_Crate_Open_Damaged
+[2018.01.26-11.05.32:283][247]LogStaticMesh: Building static mesh SM_Env_Plains_Floors_Rubble05...
+[2018.01.26-11.05.32:284][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Env_Plains_Floors_Rubble05.SM_Env_Plains_Floors_Rubble05
+[2018.01.26-11.05.32:899][247]LogTexture: Display: Building textures: T_BranchTrunk_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.32:899][247]LogMaterial: Missing cached shader map for material M_Plains_FloorTrims, compiling. 
+[2018.01.26-11.05.32:951][247]LogTexture: Display: Building textures: T_WoodenBarrel_01_N (BC5, 512X512)
+[2018.01.26-11.05.32:963][247]LogMaterial: Missing cached shader map for material M_Exo_Cart, compiling. 
+[2018.01.26-11.05.33:007][247]LogStaticMesh: Building static mesh SM_Exo_CobWeb03...
+[2018.01.26-11.05.33:010][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_CobWeb03.SM_Exo_CobWeb03
+[2018.01.26-11.05.33:025][247]LogTexture: Display: Building textures: T_WoodenBarrel_01_D (AutoDXT, 512X512)
+[2018.01.26-11.05.33:025][247]LogMaterial: Missing cached shader map for material M_Plains_GroundBrick, compiling. 
+[2018.01.26-11.05.33:071][247]LogStaticMesh: Building static mesh SM_Plains_GroundBrick01...
+[2018.01.26-11.05.33:074][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_GroundBrick01.SM_Plains_GroundBrick01
+[2018.01.26-11.05.33:076][247]LogStaticMesh: Building static mesh SM_Plains_Vine02...
+[2018.01.26-11.05.33:090][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Vine02.SM_Plains_Vine02
+[2018.01.26-11.05.33:091][247]LogStaticMesh: Building static mesh SM_Plains_Vine01...
+[2018.01.26-11.05.33:102][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Vine01.SM_Plains_Vine01
+[2018.01.26-11.05.33:102][247]LogStaticMesh: Building static mesh SM_Plains_Tree01...
+[2018.01.26-11.05.33:163][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree01.SM_Plains_Tree01
+[2018.01.26-11.05.33:169][247]LogStaticMesh: Building static mesh SM_Plains_Grass01...
+[2018.01.26-11.05.33:175][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Grass01.SM_Plains_Grass01
+[2018.01.26-11.05.33:175][247]LogStaticMesh: Building static mesh SM_Plains_Flowers04...
+[2018.01.26-11.05.33:176][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers04.SM_Plains_Flowers04
+[2018.01.26-11.05.33:176][247]LogStaticMesh: Building static mesh SM_Plains_Flowers03...
+[2018.01.26-11.05.33:177][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers03.SM_Plains_Flowers03
+[2018.01.26-11.05.33:178][247]LogStaticMesh: Building static mesh SM_Plains_Flowers02...
+[2018.01.26-11.05.33:178][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers02.SM_Plains_Flowers02
+[2018.01.26-11.05.33:179][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock03...
+[2018.01.26-11.05.33:189][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock03.SM_Plains_LargeRock03
+[2018.01.26-11.05.33:192][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock02...
+[2018.01.26-11.05.33:224][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock02.SM_Plains_LargeRock02
+[2018.01.26-11.05.33:229][247]LogMaterial: Missing cached shader map for material M_Plains_LargeRock, compiling. 
+[2018.01.26-11.05.33:273][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock01...
+[2018.01.26-11.05.33:288][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock01.SM_Plains_LargeRock01
+[2018.01.26-11.05.33:514][247]LogTexture: Display: Building textures: T_Plains_Rock02_N (BC5, 2048X2048)
+[2018.01.26-11.05.34:754][247]LogTexture: Display: Building textures: T_Snowy_Pine_Low_N (BC5, 512X512)
+[2018.01.26-11.05.34:754][247]LogTexture: Display: Building textures: T_GroundCover_Leaf01_D (AutoDXT, 256X256)
+[2018.01.26-11.05.34:754][247]LogTexture: Display: Building textures: T_GroundCover_Leaf01_N (BC5, 256X256)
+[2018.01.26-11.05.34:754][247]LogTexture: Display: Building textures: HDRI_Epic_Courtyard_Daylight (RGBA16F, 1024X512)
+[2018.01.26-11.05.34:754][247]LogTexture: Display: Building textures: T_Decos_BSP_Stucco03_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.34:763][247]LogMaterial: Missing cached shader map for material M_Plains_SmallRock, compiling. 
+[2018.01.26-11.05.34:802][247]LogStaticMesh: Building static mesh SM_Plains_SmallRock01...
+[2018.01.26-11.05.34:808][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_SmallRock01.SM_Plains_SmallRock01
+[2018.01.26-11.05.34:810][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock_SpireLOD4...
+[2018.01.26-11.05.34:812][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD4.SM_Plains_LargeRock_SpireLOD4
+[2018.01.26-11.05.34:812][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock_SpireLOD2...
+[2018.01.26-11.05.34:816][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD2.SM_Plains_LargeRock_SpireLOD2
+[2018.01.26-11.05.34:817][247]LogStaticMesh: Building static mesh SM_Plains_LargeRock_SpireLOD...
+[2018.01.26-11.05.34:829][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Organic/StaticMesh/SM_Plains_LargeRock_SpireLOD.SM_Plains_LargeRock_SpireLOD
+[2018.01.26-11.05.34:830][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame02...
+[2018.01.26-11.05.34:834][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame02.SM_Exo_Decos_Door_Frame02
+[2018.01.26-11.05.34:835][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame03...
+[2018.01.26-11.05.34:838][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame03.SM_Exo_Decos_Door_Frame03
+[2018.01.26-11.05.34:840][247]LogStaticMesh: Building static mesh SM_Plains_Column_Large_Broken_02...
+[2018.01.26-11.05.34:852][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_02.SM_Plains_Column_Large_Broken_02
+[2018.01.26-11.05.34:854][247]LogStaticMesh: Building static mesh SM_Plains_Column_Large_Broken_01...
+[2018.01.26-11.05.34:920][247]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_Broken_01.SM_Plains_Column_Large_Broken_01
+[2018.01.26-11.05.34:921][247]LogStaticMesh: Building static mesh SM_Plains_Column_Large_01...
+[2018.01.26-11.05.34:953][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Column_Large_01.SM_Plains_Column_Large_01
+[2018.01.26-11.05.34:958][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Support_03...
+[2018.01.26-11.05.34:996][247]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_03.SM_Plains_CastleWall_Support_03
+[2018.01.26-11.05.34:997][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Support_02...
+[2018.01.26-11.05.35:010][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_02.SM_Plains_CastleWall_Support_02
+[2018.01.26-11.05.35:011][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Support_01...
+[2018.01.26-11.05.35:012][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Support_01.SM_Plains_CastleWall_Support_01
+[2018.01.26-11.05.35:013][247]LogStaticMesh: Building static mesh SM_Plains_Angel_Statue_01_nobase...
+[2018.01.26-11.05.35:033][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01_nobase.SM_Plains_Angel_Statue_01_nobase
+[2018.01.26-11.05.35:038][247]LogMaterial: Missing cached shader map for material M_Plains_Angel_Statue, compiling. 
+[2018.01.26-11.05.35:092][247]LogStaticMesh: Building static mesh SM_Plains_Angel_Statue_01...
+[2018.01.26-11.05.35:115][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01.SM_Plains_Angel_Statue_01
+[2018.01.26-11.05.35:116][247]LogStaticMesh: Building static mesh SM_Plains_StoneBlock_01...
+[2018.01.26-11.05.35:134][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_StoneBlock_01.SM_Plains_StoneBlock_01
+[2018.01.26-11.05.35:135][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign02...
+[2018.01.26-11.05.35:135][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign02.SM_Plains_Floors_TrimDesign02
+[2018.01.26-11.05.35:136][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign01...
+[2018.01.26-11.05.35:136][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign01.SM_Plains_Floors_TrimDesign01
+[2018.01.26-11.05.35:137][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimBlock01...
+[2018.01.26-11.05.35:138][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimBlock01.SM_Plains_Floors_TrimBlock01
+[2018.01.26-11.05.35:138][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim03...
+[2018.01.26-11.05.35:139][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim03.SM_Plains_Floors_Trim03
+[2018.01.26-11.05.35:139][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim02_Rev...
+[2018.01.26-11.05.35:140][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim02_Rev.SM_Plains_Floors_Trim02_Rev
+[2018.01.26-11.05.35:140][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim02...
+[2018.01.26-11.05.35:141][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim02.SM_Plains_Floors_Trim02
+[2018.01.26-11.05.35:142][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Ruin_04...
+[2018.01.26-11.05.35:155][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_04.SM_Plains_CastleWall_Ruin_04
+[2018.01.26-11.05.35:172][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Ruin_03...
+[2018.01.26-11.05.35:227][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_03.SM_Plains_CastleWall_Ruin_03
+[2018.01.26-11.05.35:228][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Ruin_02...
+[2018.01.26-11.05.35:302][247]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_02.SM_Plains_CastleWall_Ruin_02
+[2018.01.26-11.05.35:303][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Ruin_01...
+[2018.01.26-11.05.35:323][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Ruin_01.SM_Plains_CastleWall_Ruin_01
+[2018.01.26-11.05.35:324][247]LogStaticMesh: Building static mesh SM_Plains_CastleWall_Curved_Ruin_01...
+[2018.01.26-11.05.35:365][247]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleWall_Curved_Ruin_01.SM_Plains_CastleWall_Curved_Ruin_01
+[2018.01.26-11.05.35:378][247]LogStaticMesh: Building static mesh SM_Plains_CastleTower_Ruin_02_Supports...
+[2018.01.26-11.05.35:505][247]LogStaticMesh: Built static mesh [0.13s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02_Supports.SM_Plains_CastleTower_Ruin_02_Supports
+[2018.01.26-11.05.35:506][247]LogStaticMesh: Building static mesh SM_Plains_Tree_Stump01...
+[2018.01.26-11.05.35:511][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Stump01.SM_Plains_Tree_Stump01
+[2018.01.26-11.05.35:511][247]LogStaticMesh: Building static mesh SM_Plains_Tree_Branch02...
+[2018.01.26-11.05.35:522][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Branch02.SM_Plains_Tree_Branch02
+[2018.01.26-11.05.35:522][247]LogStaticMesh: Building static mesh SM_Plains_Tree_Branch01...
+[2018.01.26-11.05.35:553][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Tree_Branch01.SM_Plains_Tree_Branch01
+[2018.01.26-11.05.36:352][247]LogMaterial: Missing cached shader map for material M_Plains_Tree_Stump01, compiling. 
+[2018.01.26-11.05.38:489][247]LogTexture: Display: Building textures: T_Villa_Plaster_1_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.38:490][247]LogTexture: Display: Building textures: T_Villa_Plaster_1_D_NRM (BC5, 2048X2048)
+[2018.01.26-11.05.38:498][247]LogTexture: Display: Building textures: T_Snowy_Pine_Low (AutoDXT, 512X512)
+[2018.01.26-11.05.40:436][247]LogTexture: Display: Building textures: T_Plants_N (BC5, 2048X2048)
+[2018.01.26-11.05.40:436][247]LogTexture: Display: Building textures: T_Plants_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.40:436][247]LogTexture: Display: Building textures: T_Plains_Ruins_DemonDoor_N (BC5, 2048X2048)
+[2018.01.26-11.05.40:436][247]LogTexture: Display: Building textures: T_Plains_Ruins_DemonDoor_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.40:436][247]LogMaterial: Missing cached shader map for material M_PLains_Fern01, compiling. 
+[2018.01.26-11.05.40:532][247]LogStaticMesh: Building static mesh SM_Plains_Fern01...
+[2018.01.26-11.05.40:542][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern01.SM_Plains_Fern01
+[2018.01.26-11.05.40:542][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_BridgeRail04...
+[2018.01.26-11.05.40:545][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail04.SM_Plains_Scrap_BridgeRail04
+[2018.01.26-11.05.40:546][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_BridgeRail03...
+[2018.01.26-11.05.40:550][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail03.SM_Plains_Scrap_BridgeRail03
+[2018.01.26-11.05.40:562][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_BridgeRail02...
+[2018.01.26-11.05.40:566][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail02.SM_Plains_Scrap_BridgeRail02
+[2018.01.26-11.05.40:566][247]LogStaticMesh: Building static mesh SM_Plains_Flowers01...
+[2018.01.26-11.05.40:588][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Flowers01.SM_Plains_Flowers01
+[2018.01.26-11.05.40:588][247]LogStaticMesh: Building static mesh SM_Plains_Fern04...
+[2018.01.26-11.05.40:638][247]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern04.SM_Plains_Fern04
+[2018.01.26-11.05.40:638][247]LogStaticMesh: Building static mesh SM_Plains_Fern03...
+[2018.01.26-11.05.40:654][247]LogTexture: Display: Building textures: T_Env_Plains_Mountain01_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.40:654][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern03.SM_Plains_Fern03
+[2018.01.26-11.05.40:655][247]LogStaticMesh: Building static mesh SM_Plains_Fern02...
+[2018.01.26-11.05.40:719][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Flora/StaticMesh/SM_Plains_Fern02.SM_Plains_Fern02
+[2018.01.26-11.05.40:726][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block02...
+[2018.01.26-11.05.40:763][247]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02.SM_Plains_Floors_Block02
+[2018.01.26-11.05.40:765][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block02_Broken...
+[2018.01.26-11.05.40:773][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block02_Broken.SM_Plains_Floors_Block02_Broken
+[2018.01.26-11.05.40:773][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door04...
+[2018.01.26-11.05.40:779][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door04.SM_Exo_Decos_Door04
+[2018.01.26-11.05.40:779][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door03...
+[2018.01.26-11.05.40:794][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door03.SM_Exo_Decos_Door03
+[2018.01.26-11.05.40:794][247]LogStaticMesh: Building static mesh SM_Rootcluster_A...
+[2018.01.26-11.05.40:821][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_Rootcluster_A.SM_Rootcluster_A
+[2018.01.26-11.05.40:822][247]LogStaticMesh: Building static mesh SM_LeavePiles_02...
+[2018.01.26-11.05.40:822][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_LeavePiles_02.SM_LeavePiles_02
+[2018.01.26-11.05.40:827][247]LogMaterial: Missing cached shader map for material M_LeavesPile, compiling. 
+[2018.01.26-11.05.40:895][247]LogTexture: Display: Building textures: T_Env_Plains_Mountain01_N (BC5, 2048X2048)
+[2018.01.26-11.05.40:895][247]LogMaterial: Missing cached shader map for material M_WoodenBarrel_01, compiling. 
+[2018.01.26-11.05.40:947][247]LogStaticMesh: Building static mesh SM_WoodenBarrel_Damaged...
+[2018.01.26-11.05.41:026][247]LogStaticMesh: Built static mesh [0.08s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Damaged.SM_WoodenBarrel_Damaged
+[2018.01.26-11.05.41:026][247]LogStaticMesh: Building static mesh SM_Exo_floor_wood_plank_A...
+[2018.01.26-11.05.41:027][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_plank_A.SM_Exo_floor_wood_plank_A
+[2018.01.26-11.05.41:028][247]LogStaticMesh: Building static mesh SM_Exo_floor_wood_floorboard...
+[2018.01.26-11.05.41:059][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_floorboard.SM_Exo_floor_wood_floorboard
+[2018.01.26-11.05.41:060][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_CRV3...
+[2018.01.26-11.05.41:076][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV3.SM_Exo_Flood_ConcStairs_CRV3
+[2018.01.26-11.05.41:077][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_NoSides...
+[2018.01.26-11.05.41:082][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_NoSides.SM_Exo_Flood_ConcStairs_NoSides
+[2018.01.26-11.05.41:082][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_STR2...
+[2018.01.26-11.05.41:098][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_STR2.SM_Exo_Flood_ConcStairs_STR2
+[2018.01.26-11.05.41:098][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_CRV2...
+[2018.01.26-11.05.41:112][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV2.SM_Exo_Flood_ConcStairs_CRV2
+[2018.01.26-11.05.41:113][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_STR1...
+[2018.01.26-11.05.41:125][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_STR1.SM_Exo_Flood_ConcStairs_STR1
+[2018.01.26-11.05.41:129][247]LogStaticMesh: Building static mesh SM_1Meter_01...
+[2018.01.26-11.05.41:190][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Maps/LevelContent/Architecture/SM_1Meter_01.SM_1Meter_01
+[2018.01.26-11.05.41:197][247]LogStaticMesh: Building static mesh SM_CycRoom_01...
+[2018.01.26-11.05.41:244][247]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Maps/LevelContent/Architecture/SM_CycRoom_01.SM_CycRoom_01
+[2018.01.26-11.05.41:258][247]LogStaticMesh: Building static mesh SM_Env_Breakables_GroupLg...
+[2018.01.26-11.05.41:321][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Breakables/StaticMesh/Objects/SM_Env_Breakables_GroupLg.SM_Env_Breakables_GroupLg
+[2018.01.26-11.05.41:322][247]LogStaticMesh: Building static mesh SM_Env_Plains_Mountain_01...
+[2018.01.26-11.05.41:344][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Background/StaticMesh/SM_Env_Plains_Mountain_01.SM_Env_Plains_Mountain_01
+[2018.01.26-11.05.41:349][247]LogStaticMesh: Building static mesh SM_Env_Plains_Scrap_Bridge_2...
+[2018.01.26-11.05.41:358][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Env_Plains_Scrap_Bridge_2.SM_Env_Plains_Scrap_Bridge_2
+[2018.01.26-11.05.41:360][247]LogStaticMesh: Building static mesh SM_Exo__Arch_1...
+[2018.01.26-11.05.41:374][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo__Arch_1.SM_Exo__Arch_1
+[2018.01.26-11.05.41:375][247]LogStaticMesh: Building static mesh SM_Exo_Archway_8...
+[2018.01.26-11.05.41:378][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_8.SM_Exo_Archway_8
+[2018.01.26-11.05.41:379][247]LogStaticMesh: Building static mesh SM_Exo_Archway_7...
+[2018.01.26-11.05.41:381][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_7.SM_Exo_Archway_7
+[2018.01.26-11.05.41:382][247]LogStaticMesh: Building static mesh SM_Exo_Archway_6...
+[2018.01.26-11.05.41:394][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_6.SM_Exo_Archway_6
+[2018.01.26-11.05.41:407][247]LogStaticMesh: Building static mesh SM_Exo_Archway_1...
+[2018.01.26-11.05.41:489][247]LogStaticMesh: Built static mesh [0.08s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Archway_1.SM_Exo_Archway_1
+[2018.01.26-11.05.41:490][247]LogStaticMesh: Building static mesh SM_Exo_Bridge_Tile_Broken_A...
+[2018.01.26-11.05.41:497][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Bridge_Tile_Broken_A.SM_Exo_Bridge_Tile_Broken_A
+[2018.01.26-11.05.41:497][247]LogStaticMesh: Building static mesh SM_Exo_Cart_Damaged...
+[2018.01.26-11.05.41:955][247]LogStaticMesh: Built static mesh [0.46s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Cart_Damaged.SM_Exo_Cart_Damaged
+[2018.01.26-11.05.41:990][247]LogStaticMesh: Building static mesh SM_Exo_Crate_Open_Destroyed...
+[2018.01.26-11.05.42:133][247]LogStaticMesh: Built static mesh [0.14s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Destroyed.SM_Exo_Crate_Open_Destroyed
+[2018.01.26-11.05.42:133][247]LogStaticMesh: Building static mesh SM_Exo_Crate_Open_Intact...
+[2018.01.26-11.05.42:162][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Exo_Crate_Open_Intact.SM_Exo_Crate_Open_Intact
+[2018.01.26-11.05.42:186][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door02...
+[2018.01.26-11.05.42:205][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door02.SM_Exo_Decos_Door02
+[2018.01.26-11.05.42:206][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame04...
+[2018.01.26-11.05.42:207][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame04.SM_Exo_Decos_Door_Frame04
+[2018.01.26-11.05.42:208][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Door_Frame_Column...
+[2018.01.26-11.05.42:209][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Door_Frame_Column.SM_Exo_Decos_Door_Frame_Column
+[2018.01.26-11.05.42:209][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Set01_Cover01...
+[2018.01.26-11.05.42:212][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Cover01.SM_Exo_Decos_Set01_Cover01
+[2018.01.26-11.05.42:213][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Set01_Facade02...
+[2018.01.26-11.05.42:246][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Facade02.SM_Exo_Decos_Set01_Facade02
+[2018.01.26-11.05.42:246][247]LogStaticMesh: Building static mesh SM_Exo_Decos_Set01_Facade03...
+[2018.01.26-11.05.42:249][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Decos_Set01_Facade03.SM_Exo_Decos_Set01_Facade03
+[2018.01.26-11.05.42:249][247]LogStaticMesh: Building static mesh SM_Exo_destroyed_floor_wood...
+[2018.01.26-11.05.42:254][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floor_wood.SM_Exo_destroyed_floor_wood
+[2018.01.26-11.05.42:254][247]LogStaticMesh: Building static mesh SM_Exo_destroyed_floormissing...
+[2018.01.26-11.05.42:259][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floormissing.SM_Exo_destroyed_floormissing
+[2018.01.26-11.05.42:260][247]LogStaticMesh: Building static mesh SM_Exo_destroyed_floormissing_A...
+[2018.01.26-11.05.42:284][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_destroyed_floormissing_A.SM_Exo_destroyed_floormissing_A
+[2018.01.26-11.05.42:285][247]LogStaticMesh: Building static mesh SM_Exo_Doorframe_02...
+[2018.01.26-11.05.42:287][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_02.SM_Exo_Doorframe_02
+[2018.01.26-11.05.42:288][247]LogStaticMesh: Building static mesh SM_Exo_Doorframe_03...
+[2018.01.26-11.05.42:297][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Doorframe_03.SM_Exo_Doorframe_03
+[2018.01.26-11.05.42:298][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_192...
+[2018.01.26-11.05.42:300][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_192.SM_Exo_Flood_ConcStairs_192
+[2018.01.26-11.05.42:301][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_128...
+[2018.01.26-11.05.42:302][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_128.SM_Exo_Flood_ConcStairs_128
+[2018.01.26-11.05.42:302][247]LogStaticMesh: Building static mesh SM_Exo_Flood_ConcStairs_CRV1...
+[2018.01.26-11.05.42:317][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Flood_ConcStairs_CRV1.SM_Exo_Flood_ConcStairs_CRV1
+[2018.01.26-11.05.42:317][247]LogStaticMesh: Building static mesh SM_Exo_floor_wood_plank_D...
+[2018.01.26-11.05.42:334][247]LogTexture: Display: Building textures: T_HardWood_Floor_D_NRM (BC5, 2048X2048)
+[2018.01.26-11.05.42:334][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_floor_wood_plank_D.SM_Exo_floor_wood_plank_D
+[2018.01.26-11.05.42:335][247]LogStaticMesh: Building static mesh SM_Exo_Stone01...
+[2018.01.26-11.05.42:335][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01.SM_Exo_Stone01
+[2018.01.26-11.05.42:336][247]LogStaticMesh: Building static mesh SM_Exo_Stone01_Chained...
+[2018.01.26-11.05.42:347][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Chained.SM_Exo_Stone01_Chained
+[2018.01.26-11.05.42:348][247]LogStaticMesh: Building static mesh SM_Exo_Stone01_ChainOnly...
+[2018.01.26-11.05.42:359][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_ChainOnly.SM_Exo_Stone01_ChainOnly
+[2018.01.26-11.05.42:361][247]LogStaticMesh: Building static mesh SM_Exo_Stone01_Framed...
+[2018.01.26-11.05.42:362][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_Stone01_Framed.SM_Exo_Stone01_Framed
+[2018.01.26-11.05.42:387][247]LogStaticMesh: Building static mesh SM_Exo_WoodPlanks02...
+[2018.01.26-11.05.42:404][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/StaticMesh/SM_Exo_WoodPlanks02.SM_Exo_WoodPlanks02
+[2018.01.26-11.05.42:404][247]LogStaticMesh: Building static mesh SM_GroundCover_Leafy01...
+[2018.01.26-11.05.42:406][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_GroundCover_Leafy01.SM_GroundCover_Leafy01
+[2018.01.26-11.05.42:406][247]LogStaticMesh: Building static mesh SM_GroundCover_Leafy03...
+[2018.01.26-11.05.42:411][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_GroundCover_Leafy03.SM_GroundCover_Leafy03
+[2018.01.26-11.05.42:412][247]LogStaticMesh: Building static mesh SM_LeavePiles_01...
+[2018.01.26-11.05.42:412][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_LeavePiles_01.SM_LeavePiles_01
+[2018.01.26-11.05.42:413][247]LogStaticMesh: Building static mesh SM_Pine_Low_Cluster...
+[2018.01.26-11.05.42:417][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_Pine_Low_Cluster.SM_Pine_Low_Cluster
+[2018.01.26-11.05.42:417][247]LogStaticMesh: Building static mesh SM_Plains_Angel_Statue_01_nobase_torch...
+[2018.01.26-11.05.42:461][247]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Angel_Statue_01_nobase_torch.SM_Plains_Angel_Statue_01_nobase_torch
+[2018.01.26-11.05.42:468][247]LogStaticMesh: Building static mesh SM_Plains_ArchArch...
+[2018.01.26-11.05.42:470][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_ArchArch.SM_Plains_ArchArch
+[2018.01.26-11.05.42:470][247]LogStaticMesh: Building static mesh SM_Plains_Buttress_01...
+[2018.01.26-11.05.42:519][247]LogTexture: Display: Building textures: T_HardWood_Floor_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.42:519][247]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Buttress_01.SM_Plains_Buttress_01
+[2018.01.26-11.05.42:520][247]LogStaticMesh: Building static mesh SM_Plains_Buttress_02...
+[2018.01.26-11.05.42:558][247]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Buttress_02.SM_Plains_Buttress_02
+[2018.01.26-11.05.42:559][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Bridge_Wall_01...
+[2018.01.26-11.05.42:633][247]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Bridge_Wall_01.SM_Plains_Castle_Bridge_Wall_01
+[2018.01.26-11.05.42:651][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Cage_01...
+[2018.01.26-11.05.42:958][247]LogStaticMesh: Built static mesh [0.31s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Cage_01.SM_Plains_Castle_Cage_01
+[2018.01.26-11.05.42:962][247]LogStaticMesh: Building static mesh SM_Plains_Castle_DemonDoor_01...
+[2018.01.26-11.05.42:989][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Castle_DemonDoor_01.SM_Plains_Castle_DemonDoor_01
+[2018.01.26-11.05.42:995][247]LogStaticMesh: Building static mesh SM_Plains_Castle_DemonDoor_Half...
+[2018.01.26-11.05.43:005][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Castle_DemonDoor_Half.SM_Plains_Castle_DemonDoor_Half
+[2018.01.26-11.05.43:008][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Railing_Curved...
+[2018.01.26-11.05.43:047][247]LogStaticMesh: Built static mesh [0.04s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Railing_Curved.SM_Plains_Castle_Railing_Curved
+[2018.01.26-11.05.43:048][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Railing_Curved_45...
+[2018.01.26-11.05.43:056][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Railing_Curved_45.SM_Plains_Castle_Railing_Curved_45
+[2018.01.26-11.05.43:057][247]LogStaticMesh: Building static mesh SM_Plains_Castle_Stairs_01...
+[2018.01.26-11.05.43:105][247]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Stairs_01.SM_Plains_Castle_Stairs_01
+[2018.01.26-11.05.43:106][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_01...
+[2018.01.26-11.05.43:138][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_01.SM_Plains_CastleArch_01
+[2018.01.26-11.05.43:139][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_02...
+[2018.01.26-11.05.43:218][247]LogStaticMesh: Built static mesh [0.08s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_02.SM_Plains_CastleArch_02
+[2018.01.26-11.05.43:223][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_03...
+[2018.01.26-11.05.43:249][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_03.SM_Plains_CastleArch_03
+[2018.01.26-11.05.43:249][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_01...
+[2018.01.26-11.05.43:261][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_01.SM_Plains_CastleArch_Iron_01
+[2018.01.26-11.05.43:261][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Gate_01...
+[2018.01.26-11.05.43:313][247]LogStaticMesh: Built static mesh [0.05s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01.SM_Plains_CastleArch_Iron_Gate_01
+[2018.01.26-11.05.43:314][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Gate_01_Broken...
+[2018.01.26-11.05.43:410][247]LogStaticMesh: Built static mesh [0.10s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_01_Broken.SM_Plains_CastleArch_Iron_Gate_01_Broken
+[2018.01.26-11.05.43:411][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Gate_02...
+[2018.01.26-11.05.43:435][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_02.SM_Plains_CastleArch_Iron_Gate_02
+[2018.01.26-11.05.43:439][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Gate_02_Broken...
+[2018.01.26-11.05.43:513][247]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Gate_02_Broken.SM_Plains_CastleArch_Iron_Gate_02_Broken
+[2018.01.26-11.05.43:514][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Iron_Torch_01...
+[2018.01.26-11.05.43:583][247]LogStaticMesh: Built static mesh [0.07s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Iron_Torch_01.SM_Plains_CastleArch_Iron_Torch_01
+[2018.01.26-11.05.43:583][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Ruin_01...
+[2018.01.26-11.05.43:590][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_01.SM_Plains_CastleArch_Ruin_01
+[2018.01.26-11.05.43:591][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Ruin_02_Broken...
+[2018.01.26-11.05.43:592][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_02_Broken.SM_Plains_CastleArch_Ruin_02_Broken
+[2018.01.26-11.05.43:592][247]LogStaticMesh: Building static mesh SM_Plains_CastleArch_Ruin_03...
+[2018.01.26-11.05.43:624][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleArch_Ruin_03.SM_Plains_CastleArch_Ruin_03
+[2018.01.26-11.05.43:625][247]LogStaticMesh: Building static mesh SM_Plains_CastleDoorArch_01...
+[2018.01.26-11.05.43:630][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleDoorArch_01.SM_Plains_CastleDoorArch_01
+[2018.01.26-11.05.43:631][247]LogStaticMesh: Building static mesh SM_Plains_CastleTower_01...
+[2018.01.26-11.05.43:716][247]LogStaticMesh: Built static mesh [0.08s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_01.SM_Plains_CastleTower_01
+[2018.01.26-11.05.43:721][247]LogStaticMesh: Building static mesh SM_Plains_CastleTower_Ruin_01...
+[2018.01.26-11.05.43:743][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_01.SM_Plains_CastleTower_Ruin_01
+[2018.01.26-11.05.43:745][247]LogStaticMesh: Building static mesh SM_Plains_CastleTower_Ruin_02...
+[2018.01.26-11.05.43:804][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_CastleTower_Ruin_02.SM_Plains_CastleTower_Ruin_02
+[2018.01.26-11.05.43:807][247]LogStaticMesh: Building static mesh SM_Plains_Floor_01...
+[2018.01.26-11.05.43:809][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Floor_01.SM_Plains_Floor_01
+[2018.01.26-11.05.43:809][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block03...
+[2018.01.26-11.05.43:811][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block03.SM_Plains_Floors_Block03
+[2018.01.26-11.05.43:811][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block04...
+[2018.01.26-11.05.43:814][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block04.SM_Plains_Floors_Block04
+[2018.01.26-11.05.43:815][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block05...
+[2018.01.26-11.05.43:818][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block05.SM_Plains_Floors_Block05
+[2018.01.26-11.05.43:819][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Block06...
+[2018.01.26-11.05.43:820][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Block06.SM_Plains_Floors_Block06
+[2018.01.26-11.05.43:821][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Brick01...
+[2018.01.26-11.05.43:822][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Brick01.SM_Plains_Floors_Brick01
+[2018.01.26-11.05.43:823][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Flat01...
+[2018.01.26-11.05.43:829][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat01.SM_Plains_Floors_Flat01
+[2018.01.26-11.05.43:831][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Flat02...
+[2018.01.26-11.05.43:831][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat02.SM_Plains_Floors_Flat02
+[2018.01.26-11.05.43:832][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Flat03...
+[2018.01.26-11.05.43:832][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Flat03.SM_Plains_Floors_Flat03
+[2018.01.26-11.05.43:833][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Rubble02...
+[2018.01.26-11.05.43:838][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble02.SM_Plains_Floors_Rubble02
+[2018.01.26-11.05.43:843][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Rubble03...
+[2018.01.26-11.05.43:845][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble03.SM_Plains_Floors_Rubble03
+[2018.01.26-11.05.43:846][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Rubble04...
+[2018.01.26-11.05.43:850][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble04.SM_Plains_Floors_Rubble04
+[2018.01.26-11.05.43:851][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Rubble05...
+[2018.01.26-11.05.43:852][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble05.SM_Plains_Floors_Rubble05
+[2018.01.26-11.05.43:853][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Rubble...
+[2018.01.26-11.05.43:858][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Rubble.SM_Plains_Floors_Rubble
+[2018.01.26-11.05.43:860][247]LogStaticMesh: Building static mesh SM_Plains_Floors_Trim01...
+[2018.01.26-11.05.43:861][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_Trim01.SM_Plains_Floors_Trim01
+[2018.01.26-11.05.43:862][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign02a...
+[2018.01.26-11.05.43:862][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign02a.SM_Plains_Floors_TrimDesign02a
+[2018.01.26-11.05.43:862][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign03...
+[2018.01.26-11.05.43:863][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign03.SM_Plains_Floors_TrimDesign03
+[2018.01.26-11.05.43:864][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign04...
+[2018.01.26-11.05.43:864][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign04.SM_Plains_Floors_TrimDesign04
+[2018.01.26-11.05.43:864][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesign05...
+[2018.01.26-11.05.43:865][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesign05.SM_Plains_Floors_TrimDesign05
+[2018.01.26-11.05.43:866][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimDesignRubble01...
+[2018.01.26-11.05.43:866][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimDesignRubble01.SM_Plains_Floors_TrimDesignRubble01
+[2018.01.26-11.05.43:867][247]LogStaticMesh: Building static mesh SM_Plains_Floors_TrimFlat01...
+[2018.01.26-11.05.43:867][247]LogStaticMesh: Built static mesh [0.00s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Floors_TrimFlat01.SM_Plains_Floors_TrimFlat01
+[2018.01.26-11.05.43:868][247]LogStaticMesh: Building static mesh SM_Plains_Man_Statue_01...
+[2018.01.26-11.05.43:903][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Man_Statue_01.SM_Plains_Man_Statue_01
+[2018.01.26-11.05.43:913][247]LogStaticMesh: Building static mesh SM_Plains_Man_Statue_01_torch...
+[2018.01.26-11.05.43:947][247]LogTexture: Display: Building textures: T_Plains_Man_Statue_N (BC5, 2048X2048)
+[2018.01.26-11.05.43:947][247]LogStaticMesh: Built static mesh [0.03s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/StaticMesh/SM_Plains_Man_Statue_01_torch.SM_Plains_Man_Statue_01_torch
+[2018.01.26-11.05.43:957][247]LogStaticMesh: Building static mesh SM_Plains_Ruin_BuildingLOD01...
+[2018.01.26-11.05.43:963][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Ruin_BuildingLOD01.SM_Plains_Ruin_BuildingLOD01
+[2018.01.26-11.05.43:967][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge01...
+[2018.01.26-11.05.43:976][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge01.SM_Plains_Scrap_Bridge01
+[2018.01.26-11.05.43:979][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge02...
+[2018.01.26-11.05.43:987][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge02.SM_Plains_Scrap_Bridge02
+[2018.01.26-11.05.43:990][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge03...
+[2018.01.26-11.05.43:999][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge03.SM_Plains_Scrap_Bridge03
+[2018.01.26-11.05.44:002][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge04...
+[2018.01.26-11.05.44:014][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge04.SM_Plains_Scrap_Bridge04
+[2018.01.26-11.05.44:017][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_Bridge_2...
+[2018.01.26-11.05.44:027][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_Bridge_2.SM_Plains_Scrap_Bridge_2
+[2018.01.26-11.05.44:033][247]LogStaticMesh: Building static mesh SM_Plains_Scrap_BridgeRail01...
+[2018.01.26-11.05.44:038][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Floors/StaticMesh/SM_Plains_Scrap_BridgeRail01.SM_Plains_Scrap_BridgeRail01
+[2018.01.26-11.05.44:039][247]LogStaticMesh: Building static mesh SM_SmallTree02...
+[2018.01.26-11.05.44:053][247]LogStaticMesh: Built static mesh [0.01s] /Game/InfinityBladeGrassLands/Environments/Earth/StaticMesh/SM_SmallTree02.SM_SmallTree02
+[2018.01.26-11.05.44:054][247]LogStaticMesh: Building static mesh SM_WoodenBarrel_Destroyed...
+[2018.01.26-11.05.44:114][247]LogStaticMesh: Built static mesh [0.06s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Destroyed.SM_WoodenBarrel_Destroyed
+[2018.01.26-11.05.44:115][247]LogStaticMesh: Building static mesh SM_WoodenBarrel_Intact...
+[2018.01.26-11.05.44:131][247]LogStaticMesh: Built static mesh [0.02s] /Game/InfinityBladeGrassLands/Environments/Misc/Exo_Deco01/StaticMesh/SM_WoodenBarrel_Intact.SM_WoodenBarrel_Intact
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_Plains_Man_Statue_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_N (BC5, 1024X1024)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_Plains_Ruins_FloorStones_D (AutoDXT, 1024X1024)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_TreeBase1_N (BC5, 512X512)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_TreeBase1_D (AutoDXT, 512X512)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_Plains_Castle_Wroughtlron_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_Plains_ExtCastle_StoneWall_01_N (BC5, 2048X2048)
+[2018.01.26-11.05.52:369][247]LogTexture: Display: Building textures: T_Plains_ExtCastle_StoneWall_01_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.52:369][247]LogMaterial: Missing cached shader map for material M_Env_Plains_Mountain01, compiling. 
+[2018.01.26-11.05.52:630][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_02_N (BC5, 2048X2048)
+[2018.01.26-11.05.52:630][247]LogTexture: Display: Building textures: T_MeterGrid_01_M (BGRA8, 2048X2048)
+[2018.01.26-11.05.53:474][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_02_D (AutoDXT, 2048X2048)
+[2018.01.26-11.05.53:487][247]LogMaterial: Missing cached shader map for material M_CycRoom_01, compiling. 
+[2018.01.26-11.05.53:538][247]LogMaterial: Missing cached shader map for material M_1Meter_01, compiling. 
+[2018.01.26-11.05.53:586][247]LogMaterial: Missing cached shader map for material M_Decos_BSP_Stucco03, compiling. 
+[2018.01.26-11.05.53:628][247]LogMaterial: Missing cached shader map for material M_Pine_Low, compiling. 
+[2018.01.26-11.05.54:078][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_03_N (BC5, 2048X2048)
+[2018.01.26-11.05.54:078][247]LogTexture: Display: Building textures: T_Villa_Pillar_1_D (AutoDXT, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_03_D (AutoDXT, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Plains_Castle_Wroughtlron_N (BC5, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_N (BC5, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_M (AutoDXT, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Plains_Ruins_Pillars_D (AutoDXT, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Tile_Floor_Broken_D (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Tile_Floor_Broken_D_NRM (BC5, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Decos_Facade01_D (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Decos_Facade01_D_NRM (BC5, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Flooded_ConcRail1_D_NRM (BC5, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Flooded_ConcRail1_D (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Villa_Pillar_1_D_NRM (BC5, 2048X2048)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Env_Breakables_Breakables_N (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Env_Breakables_Breakables_D (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Plains_FloorsBeams_D (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Decos_BSP_Stucco02_N (BC5, 1024X1024)
+[2018.01.26-11.06.04:701][247]LogTexture: Display: Building textures: T_Decos_BSP_Stucco02_D (AutoDXT, 1024X1024)
+[2018.01.26-11.06.04:709][247]LogMaterial: Missing cached shader map for material M_Villa_Pillar_1, compiling. 
+[2018.01.26-11.06.04:760][247]LogMaterial: Missing cached shader map for material M_Exo_Generic_Plants, compiling. 
+[2018.01.26-11.06.04:842][247]LogMaterial: Missing cached shader map for material M_Plains_Castle_Demon, compiling. 
+[2018.01.26-11.06.04:884][247]LogMaterial: Missing cached shader map for material M_HardWood_Floor, compiling. 
+[2018.01.26-11.06.04:925][247]LogMaterial: Missing cached shader map for material M_Plains_Man_Statue, compiling. 
+[2018.01.26-11.06.04:966][247]LogMaterial: Missing cached shader map for material M_PLains_FloorStone, compiling. 
+[2018.01.26-11.06.05:044][247]LogMaterial: Missing cached shader map for material M_TreeBark, compiling. 
+[2018.01.26-11.06.05:087][247]LogMaterial: Missing cached shader map for material M_GroundCover_LEafy, compiling. 
+[2018.01.26-11.06.05:164][247]LogMaterial: Missing cached shader map for material M_PLains_Castle_WroughtIron, compiling. 
+[2018.01.26-11.06.05:209][247]LogMaterial: Missing cached shader map for material M_Plains_StoneWall, compiling. 
+[2018.01.26-11.06.05:255][247]LogMaterial: Missing cached shader map for material M_Plains_Pillars02, compiling. 
+[2018.01.26-11.06.05:392][247]LogMaterial: Missing cached shader map for material M_Plains_Pillars03, compiling. 
+[2018.01.26-11.06.06:356][247]LogMaterial: Missing cached shader map for material M_Plains_Pillars, compiling. 
+[2018.01.26-11.06.06:391][247]LogMaterial: Missing cached shader map for material M_Tile_Floor_Broken_Tex_A, compiling. 
+[2018.01.26-11.06.06:431][247]LogMaterial: Missing cached shader map for material M_Decos_Facade01, compiling. 
+[2018.01.26-11.06.06:476][247]LogMaterial: Missing cached shader map for material M_Villa_Plaster_1, compiling. 
+[2018.01.26-11.06.06:503][247]LogMaterial: Missing cached shader map for material m_Flooded_ConcRail1, compiling. 
+[2018.01.26-11.06.06:548][247]LogMaterial: Missing cached shader map for material M_Breakables_Barrels, compiling. 
+[2018.01.26-11.06.06:590][247]LogMaterial: Missing cached shader map for material M_PLains_Scrap_Bridge, compiling. 
+[2018.01.26-11.06.06:636][247]LogMaterial: Missing cached shader map for material M_Decos_BSP_Stucco02, compiling. 
+[2018.01.26-11.06.06:674][247]LogMaterial: Missing cached shader map for material M_CycWall_01, compiling. 
+[2018.01.26-11.06.06:763][247]LogAIModule: Creating AISystem for world Overview
+[2018.01.26-11.06.06:764][247]LogActorComponent: RegisterComponentWithWorld: (/Game/InfinityBladeGrassLands/Maps/Overview.Overview:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.01.26-11.15.26:308][247]Cmd: MAP LOAD FILE="../../../../../../Users/pas/Documents/Unreal Projects/Survival/Content/InfinityBladeGrassLands/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.26-11.15.26:309][247]LightingResults: New page: Lighting Build
+[2018.01.26-11.15.26:310][247]LoadErrors: New page: Loading map: Overview.umap
+[2018.01.26-11.15.26:311][247]MapCheck: New page: Map Check
+[2018.01.26-11.15.26:311][247]LightingResults: New page: Lighting Build
+[2018.01.26-11.15.26:736][247]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.26-11.15.26:769][247]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.26-11.15.26:887][247]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.517ms to complete.
+[2018.01.26-11.15.26:887][247]LogFileHelpers: Loading map 'Overview' took 0.584
